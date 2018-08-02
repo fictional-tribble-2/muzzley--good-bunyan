@@ -1,5 +1,7 @@
 # good-bunyan
 
+[![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/muzzley--good-bunyan.svg)](https://www.staging.guardrails.io)
+
 `good-bunyan` is a [good](https://github.com/hapijs/good) reporter implementation to write [hapi](http://hapijs.com/) server events to a [bunyan](https://github.com/trentm/node-bunyan/) logger.
 
 ## Install
